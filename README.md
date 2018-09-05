@@ -1,1 +1,1 @@
-# DemoProject
+# DemoStoreQA

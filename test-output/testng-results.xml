@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Start Of TestCase]]>
+    </line>
+    <line>
+      <![CDATA[Start of Test Case]]>
+    </line>
+    <line>
+      <![CDATA[Step#1 - Go to ToolsQA URL .Expected = ToolsQA URL opened and Actual = Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step #2 - Go to Product category and select Accessories .Expected = Navigated to Accessories page and Actual = Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step #3 - Click on “Add to Cart” for just Magic Mouse .Expected = Magic Mouse Product added to cart and Actual =  Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step#4 - Click on “Checkout” and confirm you have 1 product in your Check-Out Page .Expected = One Magic Mouse Magic Mouse product present and Actual = One Magic Mouse is present .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step#5 - After confirming, click on Continue .Expected = Clicked on continue and Actual =  Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Filling Contact/Billing details :]]>
+    </line>
+    <line>
+      <![CDATA[sarla.ss@testmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Sarla]]>
+    </line>
+    <line>
+      <![CDATA[Singh]]>
+    </line>
+    <line>
+      <![CDATA[21 Church Street]]>
+    </line>
+    <line>
+      <![CDATA[Toronto]]>
+    </line>
+    <line>
+      <![CDATA[Ontario]]>
+    </line>
+    <line>
+      <![CDATA[N7Y 4K5]]>
+    </line>
+    <line>
+      <![CDATA[777000777]]>
+    </line>
+    <line>
+      <![CDATA[Step#6 - Enter test (dummy) data needed for email, billing/contact details and click Purchase .Expected = Details filled and clicked on Purchase and Actual = Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step#7 - Confirm that you have placed the Order in ‘Transaction Results’ page .Expected = One Magic Mouse order present on the Transaction page and Actual = Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[End of Test Case]]>
+    </line>
+    <line>
+      <![CDATA[Start of Test Case]]>
+    </line>
+    <line>
+      <![CDATA[Step#1 - Go to ToolsQA URL .Expected = ToolsQA URL opened and Actual = Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step #2 - Go to Product category and select Accessories .Expected = Navigated to Accessories page and Actual = Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step #3 - Click on “Add to Cart” for just Magic Mouse .Expected = Magic Mouse Product added to cart and Actual =  Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step#4 - Click on “Checkout” and confirm you have 1 product in your Check-Out Page .Expected = One Magic Mouse Magic Mouse product present and Actual = One Magic Mouse is present .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step#5 - After confirming, click on Continue .Expected = Clicked on continue and Actual =  Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Filling Contact/Billing details :]]>
+    </line>
+    <line>
+      <![CDATA[priya.tia@testmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Priya]]>
+    </line>
+    <line>
+      <![CDATA[Sen]]>
+    </line>
+    <line>
+      <![CDATA[22 Wood Street]]>
+    </line>
+    <line>
+      <![CDATA[Toronto]]>
+    </line>
+    <line>
+      <![CDATA[Ontario]]>
+    </line>
+    <line>
+      <![CDATA[N7Y 4K6]]>
+    </line>
+    <line>
+      <![CDATA[880088888]]>
+    </line>
+    <line>
+      <![CDATA[Step#6 - Enter test (dummy) data needed for email, billing/contact details and click Purchase .Expected = Details filled and clicked on Purchase and Actual = Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step#7 - Confirm that you have placed the Order in ‘Transaction Results’ page .Expected = One Magic Mouse order present on the Transaction page and Actual = Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[End of Test Case]]>
+    </line>
+    <line>
+      <![CDATA[Test method placeOrderMagicMouse passed]]>
+    </line>
+    <line>
+      <![CDATA[End Of TestCase]]>
+    </line>
+    <line>
+      <![CDATA[Start Of TestCase]]>
+    </line>
+    <line>
+      <![CDATA[Start of Test Case]]>
+    </line>
+    <line>
+      <![CDATA[Step#1 - Go to ToolsQA URL .Expected = ToolsQA URL opened and Actual = Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step #2 - Go to Product category and select Accessories .Expected = Navigated to Accessories page and Actual = Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step #3 - Click on “Add to Cart” for just Magic Mouse .Expected = Magic Mouse Product added to cart and Actual =  Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step#4 - Click on “Checkout” and confirm you have 1 product in your Check-Out Page .Expected = One Magic Mouse Magic Mouse product present and Actual = One Magic Mouse is present .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step#5 - After confirming, click on Continue .Expected = Clicked on continue and Actual =  Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Filling Contact/Billing details :]]>
+    </line>
+    <line>
+      <![CDATA[aavi.ss@testmail.com]]>
+    </line>
+    <line>
+      <![CDATA[Aavya]]>
+    </line>
+    <line>
+      <![CDATA[Singh]]>
+    </line>
+    <line>
+      <![CDATA[21 Church Street]]>
+    </line>
+    <line>
+      <![CDATA[Toronto]]>
+    </line>
+    <line>
+      <![CDATA[Ontario]]>
+    </line>
+    <line>
+      <![CDATA[N7Y 4K5]]>
+    </line>
+    <line>
+      <![CDATA[777000777]]>
+    </line>
+    <line>
+      <![CDATA[Step#6 - Enter test (dummy) data needed for email, billing/contact details and click Purchase .Expected = Details filled and clicked on Purchase and Actual = Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[Step#7 - Confirm that you have placed the Order in ‘Transaction Results’ page .Expected = One Magic Mouse order present on the Transaction page and Actual = Done .Status- Passed]]>
+    </line>
+    <line>
+      <![CDATA[End of Test Case]]>
+    </line>
+    <line>
+      <![CDATA[Test method placeOrderMagicMouse passed]]>
+    </line>
+    <line>
+      <![CDATA[End Of TestCase]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="163425" started-at="2018-09-05T03:07:43Z" finished-at="2018-09-05T03:10:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="163425" started-at="2018-09-05T03:07:43Z" finished-at="2018-09-05T03:10:27Z">
+      <class name="automation_framework.TestCase_2">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automation_framework.TestCase_2@2f686d1f]" name="beforeMethod" is-config="true" duration-ms="6109" started-at="2018-09-05T03:07:43Z" finished-at="2018-09-05T03:07:50Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Start Of TestCase]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:automation_framework.TestCase_2@2f686d1f]" name="main" duration-ms="94980" started-at="2018-09-05T03:07:50Z" finished-at="2018-09-05T03:09:25Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Start of Test Case]]>
+            </line>
+            <line>
+              <![CDATA[Step#1 - Go to ToolsQA URL .Expected = ToolsQA URL opened and Actual = Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step #2 - Go to Product category and select Accessories .Expected = Navigated to Accessories page and Actual = Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step #3 - Click on “Add to Cart” for just Magic Mouse .Expected = Magic Mouse Product added to cart and Actual =  Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step#4 - Click on “Checkout” and confirm you have 1 product in your Check-Out Page .Expected = One Magic Mouse Magic Mouse product present and Actual = One Magic Mouse is present .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step#5 - After confirming, click on Continue .Expected = Clicked on continue and Actual =  Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Filling Contact/Billing details :]]>
+            </line>
+            <line>
+              <![CDATA[sarla.ss@testmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Sarla]]>
+            </line>
+            <line>
+              <![CDATA[Singh]]>
+            </line>
+            <line>
+              <![CDATA[21 Church Street]]>
+            </line>
+            <line>
+              <![CDATA[Toronto]]>
+            </line>
+            <line>
+              <![CDATA[Ontario]]>
+            </line>
+            <line>
+              <![CDATA[N7Y 4K5]]>
+            </line>
+            <line>
+              <![CDATA[777000777]]>
+            </line>
+            <line>
+              <![CDATA[Step#6 - Enter test (dummy) data needed for email, billing/contact details and click Purchase .Expected = Details filled and clicked on Purchase and Actual = Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step#7 - Confirm that you have placed the Order in ‘Transaction Results’ page .Expected = One Magic Mouse order present on the Transaction page and Actual = Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[End of Test Case]]>
+            </line>
+            <line>
+              <![CDATA[Start of Test Case]]>
+            </line>
+            <line>
+              <![CDATA[Step#1 - Go to ToolsQA URL .Expected = ToolsQA URL opened and Actual = Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step #2 - Go to Product category and select Accessories .Expected = Navigated to Accessories page and Actual = Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step #3 - Click on “Add to Cart” for just Magic Mouse .Expected = Magic Mouse Product added to cart and Actual =  Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step#4 - Click on “Checkout” and confirm you have 1 product in your Check-Out Page .Expected = One Magic Mouse Magic Mouse product present and Actual = One Magic Mouse is present .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step#5 - After confirming, click on Continue .Expected = Clicked on continue and Actual =  Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Filling Contact/Billing details :]]>
+            </line>
+            <line>
+              <![CDATA[priya.tia@testmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Priya]]>
+            </line>
+            <line>
+              <![CDATA[Sen]]>
+            </line>
+            <line>
+              <![CDATA[22 Wood Street]]>
+            </line>
+            <line>
+              <![CDATA[Toronto]]>
+            </line>
+            <line>
+              <![CDATA[Ontario]]>
+            </line>
+            <line>
+              <![CDATA[N7Y 4K6]]>
+            </line>
+            <line>
+              <![CDATA[880088888]]>
+            </line>
+            <line>
+              <![CDATA[Step#6 - Enter test (dummy) data needed for email, billing/contact details and click Purchase .Expected = Details filled and clicked on Purchase and Actual = Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step#7 - Confirm that you have placed the Order in ‘Transaction Results’ page .Expected = One Magic Mouse order present on the Transaction page and Actual = Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[End of Test Case]]>
+            </line>
+            <line>
+              <![CDATA[Test method placeOrderMagicMouse passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automation_framework.TestCase_2@2f686d1f]" name="afterMethod" is-config="true" duration-ms="997" started-at="2018-09-05T03:09:25Z" finished-at="2018-09-05T03:09:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[End Of TestCase]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automation_framework.TestCase_2 -->
+      <class name="automation_framework.TestCase_1">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automation_framework.TestCase_1@3fee9989]" name="beforeMethod" is-config="true" duration-ms="3630" started-at="2018-09-05T03:09:26Z" finished-at="2018-09-05T03:09:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Start Of TestCase]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="main()[pri:0, instance:automation_framework.TestCase_1@3fee9989]" name="main" duration-ms="56685" started-at="2018-09-05T03:09:29Z" finished-at="2018-09-05T03:10:26Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Start of Test Case]]>
+            </line>
+            <line>
+              <![CDATA[Step#1 - Go to ToolsQA URL .Expected = ToolsQA URL opened and Actual = Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step #2 - Go to Product category and select Accessories .Expected = Navigated to Accessories page and Actual = Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step #3 - Click on “Add to Cart” for just Magic Mouse .Expected = Magic Mouse Product added to cart and Actual =  Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step#4 - Click on “Checkout” and confirm you have 1 product in your Check-Out Page .Expected = One Magic Mouse Magic Mouse product present and Actual = One Magic Mouse is present .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step#5 - After confirming, click on Continue .Expected = Clicked on continue and Actual =  Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Filling Contact/Billing details :]]>
+            </line>
+            <line>
+              <![CDATA[aavi.ss@testmail.com]]>
+            </line>
+            <line>
+              <![CDATA[Aavya]]>
+            </line>
+            <line>
+              <![CDATA[Singh]]>
+            </line>
+            <line>
+              <![CDATA[21 Church Street]]>
+            </line>
+            <line>
+              <![CDATA[Toronto]]>
+            </line>
+            <line>
+              <![CDATA[Ontario]]>
+            </line>
+            <line>
+              <![CDATA[N7Y 4K5]]>
+            </line>
+            <line>
+              <![CDATA[777000777]]>
+            </line>
+            <line>
+              <![CDATA[Step#6 - Enter test (dummy) data needed for email, billing/contact details and click Purchase .Expected = Details filled and clicked on Purchase and Actual = Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[Step#7 - Confirm that you have placed the Order in ‘Transaction Results’ page .Expected = One Magic Mouse order present on the Transaction page and Actual = Done .Status- Passed]]>
+            </line>
+            <line>
+              <![CDATA[End of Test Case]]>
+            </line>
+            <line>
+              <![CDATA[Test method placeOrderMagicMouse passed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- main -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automation_framework.TestCase_1@3fee9989]" name="afterMethod" is-config="true" duration-ms="975" started-at="2018-09-05T03:10:26Z" finished-at="2018-09-05T03:10:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[End Of TestCase]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automation_framework.TestCase_1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
